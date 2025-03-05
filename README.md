@@ -1,7 +1,7 @@
 # GameCo Analysis 
 
 ## Project Summary
-This repository contains a data of GameCo's sales data, with a focus to perform a descriptive analysis of a video game data set to better understanding of how GameCo’s new games might fare in the market.
+This repository contains a data of GameCo's sales, with a focus to perform a descriptive analysis of a video game data set to better understanding of how GameCo’s new games might fare in the market.
 
 ## Key Questions
 - Are certain types of games more popular than others?
